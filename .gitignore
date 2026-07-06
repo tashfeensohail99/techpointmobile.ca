@@ -1,0 +1,25 @@
+# --- Confidential source documents (kept locally, NOT published) ---
+Business Plan TechPoint Mobile Solutions.pdf
+Incorporation Certificate*.pdf
+*.confidential.*
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+.vscode/
+.idea/
+
+# --- Dependencies / build (none currently, future-proofing) ---
+node_modules/
+dist/
+.cache/
+
+# --- Local Claude preview state ---
+.claude/settings.local.json
+
+# --- Office lock/temp files ---
+~$*
+*.tmp
