@@ -1,0 +1,10 @@
+# Only the website/ dir and Caddyfile are needed in the image.
+.git
+.gitignore
+.claude
+brand
+letterhead
+*.pdf
+*.docx
+README.md
+node_modules
